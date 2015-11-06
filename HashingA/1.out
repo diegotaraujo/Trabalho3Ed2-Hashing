@@ -1,0 +1,37 @@
+Campo invalido! Informe novamente.
+
+Registro CBMA0309 inserido com sucesso. Numero de colisoes: 0.
+
+Campo invalido! Informe novamente.
+
+ERRO: Ja existe um registro com a chave primaria: CBMA0309.
+
+Campo invalido! Informe novamente.
+
+Campo invalido! Informe novamente.
+
+Registro PKBR1911 inserido com sucesso. Numero de colisoes: 0.
+
+Registro FIRE2204 inserido com sucesso. Numero de colisoes: 0.
+
+Registro QLTN3005 inserido com sucesso. Numero de colisoes: 1.
+
+Registro SLPY0809 inserido com sucesso. Numero de colisoes: 2.
+
+Registro QTQG3101 inserido com sucesso. Numero de colisoes: 0.
+
+Registro CKNA1309 inserido com sucesso. Numero de colisoes: 0.
+
+Registro TRLI0309 inserido com sucesso. Numero de colisoes: 1.
+
+[0] Ocupado: QLTN3005
+[1] Ocupado: SLPY0809
+[2] Livre
+[3] Livre
+[4] Ocupado: CBMA0309
+[5] Ocupado: FIRE2204
+[6] Ocupado: TRLI0309
+[7] Ocupado: QTQG3101
+[8] Ocupado: CKNA1309
+[9] Livre
+[10] Ocupado: PKBR1911
